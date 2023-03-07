@@ -1,5 +1,4 @@
 👋 Hi, I’m Elise a transgender coding girl and a huge hatsune miku fan   
-😄 Pronouns well since im a trans girl i Primarly use She/Her   
 👀 I’m interested in learing new stuff. Im not too backed down from trying new stuff   
 With that i like to bening creative. So from drawing to content-creation its something i love to do   
 Besides that i love to game. Its more fun with friends but you know.   
