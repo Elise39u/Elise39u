@@ -4,7 +4,7 @@ Further more a fun few facts about me are below 💜 :3
 
 - 😄 Pronouns: She/They At the moment i prefer they/them. 
 - 🔭 I’m currently working on my own discord bot from time to time for my twitch discord server
-- 🌱 I’m currently learning no real go but i want to get better in DiscordJS and keep my skills up to date 
+- 🌱 I’m currently learning nothing in as an set goal, but i want to get better in DiscordJS and keep my skills up to date 
 - 💬 You can ask me about anything regarding me as long as it in proper boundaries. *I will say when i find something too uncomfy to answer* 
 - 💙 Im a really creative girl. From story writing containg lore for my vtuber persona to liking to design websites and drawing 
 - 🧡 Anthor fun fact: My coding degrees actually never learned me to mod games. But it gaave me the motivation and contents to get to this goal. 
