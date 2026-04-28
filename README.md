@@ -2,7 +2,7 @@ Hey there.. Im Elise a girl coding their way around the internet. My passion for
 Have fun looking around my github.. If you have questions feel free to contact me on discord: **preggoelise** 
 Further more a fun few facts about me are below 💜 :3
 
-- 😄 Pronouns: She/They At the moment i prefer they/them. 
+- 😄 Pronouns: She/They/Preggo At the moment i prefer they/them but preggo or she is fine too :3. 
 - 🔭 I’m currently working on my own discord bot from time to time for my twitch discord server
 - 🌱 I’m currently learning nothing in as an set goal, but i want to get better in DiscordJS and keep my skills up to date 
 - 💬 You can ask me about anything regarding me as long as it in proper boundaries. *I will say when i find something too uncomfy to answer* 
