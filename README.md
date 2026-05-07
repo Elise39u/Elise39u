@@ -62,8 +62,8 @@ I enjoy expressing myself through creativity whether that’s: coding, storytell
 |-------------|----------------------|-------------|-------------|
 | React | Hidden School projects, ToppItProjects Click Game | Applications, Web Development, Educational Software | ⭐⭐⭐⭐⭐ |
 | JavaScript | DiscordJSBot, ToppItProjects Eight Queens | Discord Bots, Scripting, Web Development | ⭐⭐⭐⭐⭐ |
-| C# | InteractiveLessons, S3-Software-, ToppItProjects Click Game | Applications, Educational Software | ⭐⭐⭐⭐☆ |
-| PHP | LaravelAvontuur, Examples | Backend Web Development | ⭐⭐⭐☆☆ |
+| C# | InteractiveLessons, S3-Software- | Applications, Educational Software | ⭐⭐⭐⭐☆ |
+| PHP | LaravelAvontuur, Examples, ToppItProjects Click Game | Backend Web Development | ⭐⭐⭐☆☆ |
 | Python | Slash-Discord-bot | Bots, Automation | ⭐⭐⭐☆☆ |
 | TypeScript | Internship Final Exam Project (Private Repo) | Applications, Web Development | ⭐⭐☆☆☆ |
 
@@ -78,3 +78,4 @@ I enjoy expressing myself through creativity whether that’s: coding, storytell
 - 🎥 Content Creation
 - 🎨 Creative Design
 - 💜 Cozy Creative Coding
+- 🤰 My preggo identity (pyschgoloy behind it)
