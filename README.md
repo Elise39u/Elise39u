@@ -54,7 +54,7 @@ Experimenting with game ideas, modding, and interactive experiences.
 
 I value authenticity and creative self-expression.
 I’m someone who enjoys exploring ideas, building communities, and making projects that have personality.
-Pronouns: **Preggo / They / She**
+Pronouns: **Preggo / Preggo's / Preggoself**
 
 ---
 # ✨ Interests
